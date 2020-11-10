@@ -1,0 +1,81 @@
+{
+    "country": [
+      { "id": 1, 
+        "countryname": "Italy",
+        "figure":475
+      },
+      { "id": 2, 
+        "countryname": "United States",
+        "figure":431
+      },
+      { "id": 3, 
+        "countryname": "Canada",
+        "figure":174
+      },
+      { "id": 4, 
+        "countryname": "Spain",
+        "figure":475
+      },
+      { "id": 5,
+        "countryname": "Japan",
+        "figure":134
+    },
+      { "id": 6, 
+        "countryname": "South Africa",
+        "figure":471
+    }
+    ] , 
+
+
+    "team":[
+        {
+            "id": 1,
+            "image": "Images/Andrew.png",
+            "name": "Andrew Johnston",
+            "designation":"Top Manager"
+        },
+
+        {
+            "id": 2,
+            "image": "Images/Anna.png",
+            "name": "Anna Atkinsons",
+            "designation":"Manager"
+        },
+
+        {
+            "id": 3,
+            "image": "Images/Mark.png",
+            "name": "Mark Atkinsons",
+            "designation":"Top Manager"
+        },
+
+        {
+            "id": 4,
+            "image": "Images/Johanna.png",
+            "name": "Johanna Tairons",
+            "designation":"Manager"
+        }
+
+    ],
+
+    "comparison":[
+
+        {
+            "id": 1,
+            "image":"Images/usa.png",
+            "name": "United States"
+        },
+
+        {
+            "id": 2,
+            "image":"Images/italy.png",
+            "name": "Italy"
+        },
+
+        {
+            "id": 3,
+            "image":"Images/spain.png",
+            "name": "Spain"
+        }
+    ]
+}
